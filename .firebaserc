@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bill-9cc23": {
+      "hosting": {
+        "bill": [
+          "bill-9cc23"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bill-9cc23"
+  }
+}
